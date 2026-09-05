@@ -1,6 +1,5 @@
 # DAAI_N2
 ĐỒ ÁN DA-AI N2
-----------
 
 LINK JIRA QUẢN LÍ DỰ ÁN
 ----------
